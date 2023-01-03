@@ -1,0 +1,99 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, serif;
+}
+
+.top{
+  background-color: #E4F9F5;
+  padding: 100px;
+  position: relative;
+}
+
+.middle{
+  padding: 10px;
+}
+
+.contact-me{
+  padding: 50px;
+}
+
+
+.bottom{
+  background-color: #66BFBF;
+  padding: 20px;
+}
+
+h1{
+  font-weight: 600;
+  color:#54BAB9;
+  font-size: 5.626rem;
+  margin: 50 auto 0 auto;
+  font-family: Sacramento, cursive;
+}
+
+h2{
+  font-weight: bold;
+  color:#54BAB9;
+  font-family: Montserrat, sans-serif;
+  font-size: 1.5rem;
+}
+
+h3{
+  font-weight: bold;
+  color:#54BAB9;
+  font-family: Montserrat, sans-serif;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:320px;
+}
+
+.top-cloud{
+  position:absolute;
+  right:320px;
+  top:50px;
+}
+
+.footer-link3{
+  size:400px;
+  color:#0008C1;
+}
+
+.footer-link2{
+  size:40px;
+  color:#0008C1;
+}
+
+.footer-link1{
+  size:40px;
+  color:black;
+}
+
+i:hover{
+  color:#5F9DF7;
+}
+
+a{
+  margin-right: 10px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.profile{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-size: 17px;
+}
+.skill1{
+  width: 25%;
+}
